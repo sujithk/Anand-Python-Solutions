@@ -1,0 +1,5 @@
+def count_strng(n):
+	x=str(n)
+	return len(x)
+
+print count_strng(55)
